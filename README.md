@@ -11,8 +11,8 @@ Neste perfil, você encontrará alguns dos meus projetos pessoais e exercícios 
 ## Contato
 Estou aberto(a) a oportunidades de colaboração e aprendizado. Se você tiver interesse em trabalhar comigo ou tiver alguma pergunta, fique à vontade para entrar em contato. Você pode me encontrar através dos seguintes meios:
 
-- E-mail: marcusbarcelos2001@gmail.com
-- LinkedIn: https://www.linkedin.com/in/marcusviniciusbarcelos/
+[![Gmail:](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](marcusbarcelos2001@gmail.com)
+[![LinkedIn:](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcusviniciusbarcelos/)
 
 Obrigado por visitar meu perfil do GitHub. Estou animado para continuar aprendendo, contribuindo e conectando com a comunidade de desenvolvedores.
 
