@@ -18,7 +18,7 @@
 ## Contato
 Estou aberto(a) a oportunidades de colaboração e aprendizado. Se você tiver interesse em trabalhar comigo ou tiver alguma pergunta, fique à vontade para entrar em contato. Você pode me encontrar através dos seguintes meios:
 
-[![Gmail:](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](marcusbarcelos2001@gmail.com)
+[![Gmail:](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548998430304)
 [![LinkedIn:](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcusviniciusbarcelos/)
 
 ## Sobre mim
