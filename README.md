@@ -13,6 +13,10 @@
     <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div>
+.
+    
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MarcusViniciusBarcelos&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 
 ## Contato
 Estou aberto(a) a oportunidades de colaboração e aprendizado. Se você tiver interesse em trabalhar comigo ou tiver alguma pergunta, fique à vontade para entrar em contato. Você pode me encontrar através dos seguintes meios:
