@@ -19,6 +19,8 @@ Estou aberto(a) a oportunidades de colaboração e aprendizado. Se você tiver i
 
 [![Gmail:](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548998430304)
 [![LinkedIn:](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcusviniciusbarcelos/)
+[![Perfil DIO](https://img.shields.io/badge/Perfil-DIO-blue?style=for-the-badge&labelColor=dark-gray
+)](https://web.dio.me/users/marcusbarcelos?tab=skills)
 
 ## Sobre mim
 Embora eu não tenha experiência profissional como programador, estou dedicado(a) a estudar ativamente a área e estou ansioso por uma oportunidade para mostrar meu potencial. Tenho conhecimentos em programação em Java, C# e Python, os quais tenho desenvolvido por conta própria.
