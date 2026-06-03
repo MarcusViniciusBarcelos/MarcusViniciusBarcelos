@@ -1,6 +1,4 @@
 # Bem-vindo(a) ao meu perfil do GitHub!
-
-![Marcus GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcusViniciusBarcelos&theme=chartreuse-dark&show_icons=true)
 ## Tecnologias
 <div style="display: inline_block"><br/>
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -13,9 +11,6 @@
     <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div>
-.
-    
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MarcusViniciusBarcelos&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 ## Contato
